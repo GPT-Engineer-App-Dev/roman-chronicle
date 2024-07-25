@@ -173,7 +173,7 @@ const Index = () => {
         </section>
       </main>
 
-      <footer className="bg-red-800 text-white py-8 px-4 md:px-8 lg:px-16 mt-12">
+      <footer className="bg-blue-700 text-white py-8 px-4 md:px-8 lg:px-16 mt-12">
         <div className="container mx-auto text-center">
           <p>&copy; 2024 The Glory of Rome. All rights reserved.</p>
           <p className="mt-2">Dedicated to preserving and sharing the fascinating history of Ancient Rome.</p>
