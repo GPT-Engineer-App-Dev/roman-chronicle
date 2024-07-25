@@ -13,10 +13,10 @@ const Index = () => {
         <meta name="description" content="Dive into the fascinating world of Ancient Rome. Discover its rich history, powerful empire, and lasting legacy." />
       </Helmet>
 
-      <header className="bg-red-800 text-white py-8 px-4 md:px-8 lg:px-16">
+      <header className="bg-yellow-400 py-8 px-4 md:px-8 lg:px-16">
         <div className="container mx-auto">
-          <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-4">The Glory of Rome</h1>
-          <p className="text-xl md:text-2xl lg:text-3xl">Explore the Grandeur of the Ancient Empire</p>
+          <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-4 text-red-800">The Glory of Rome</h1>
+          <p className="text-xl md:text-2xl lg:text-3xl text-red-700">Explore the Grandeur of the Ancient Empire</p>
         </div>
       </header>
 
