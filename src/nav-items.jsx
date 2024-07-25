@@ -1,5 +1,6 @@
 import { Home, Sword, Book, Building } from "lucide-react";
 import Index from "./pages/Index.jsx";
+import History from "./pages/History.jsx";
 
 /**
  * Central place for defining the navigation items. Used for navigation components and routing.
@@ -15,7 +16,7 @@ export const navItems = [
     title: "History",
     to: "/history",
     icon: <Book className="h-4 w-4" />,
-    page: <div>Roman History Page</div>,
+    page: <History />,
   },
   {
     title: "Military",
