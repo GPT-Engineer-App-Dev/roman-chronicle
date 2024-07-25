@@ -29,7 +29,7 @@ const Index = () => {
           <p className="text-lg mb-4">
             Join us on a journey through time as we uncover the fascinating stories, monumental achievements, and enduring impact of this remarkable civilization. Whether you're a history enthusiast, a student, or simply curious about the ancient world, you'll find a wealth of information and insights on this page.
           </p>
-          <Button className="bg-red-700 hover:bg-red-800 text-white">Start Your Roman Adventure</Button>
+          <Button className="bg-yellow-600 hover:bg-yellow-700 text-white">Start Your Roman Adventure</Button>
         </section>
 
         <section className="mb-12">
